@@ -1,0 +1,54 @@
+@media only screen and (min-width: 1200px) {
+
+
+}
+
+@media only screen and (max-width: 991px) and (min-width: 768px) {
+
+    .nav-icons {
+        font-size: 55px;
+    }
+
+    .nav-elements {
+        font-size: 25px;
+    }
+
+    header .container {
+        margin-top: 20px;
+    }
+}
+
+@media only screen and (max-width: 767px) and (min-width: 468px) {
+
+    .nav-icons {
+        font-size: 45px;
+    }
+
+    .nav-elements {
+        font-size: 20px;
+    }
+
+    header .container {
+        margin-top: 15px;
+    }
+}
+
+@media only screen and (max-width: 467px) {
+    .nav-icons {
+        font-size: 30px;
+    }
+
+    .nav-elements {
+        font-size: 18px;
+    }
+
+    header .container {
+        margin-top: 10px;
+    }
+
+    .nav-icons {
+        margin-top: 10px;
+    }
+}
+
+
